@@ -1,0 +1,29 @@
+---> Understanding Units
+    - px = its fixed, not change
+    - % = its depend on the parent size
+    - vw (viewport width),vh  = depands on the screen size
+    - vmax , vmin = at particular point at width and height its not decease or increse size.
+    - em = chnage in root it will change in parent
+    - rem = 1 rem = 16px, change according to screen size (whole screen)
+
+---> Layout of Website
+    - absolute = use less
+    - Flex
+
+---> Flexbox
+    - Display Flex
+    - aligning item in x and y axis
+    - flex direction
+    - flex wrap
+
+---> CSS media Queries
+    - min height, max width
+    - min width, max width
+
+---> key point to keep in mind to amke website responsive
+    - CSS Flexbox
+    - CSS Units
+    - Responsive Typography
+    - Mobile - First Approach
+    - Flexible Image And media
+    
